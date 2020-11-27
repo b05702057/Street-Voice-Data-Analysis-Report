@@ -7,7 +7,9 @@ Write a web-crawler that gather data from the leaderboard of StreetVoice and bui
 For example, analyze the correlation between the number of fans of an artist and the number of songs released by him or her.
 
 ### Run Locally
-* Run this Command: git clone <https://github.com/b05702057/Google-Search-Result-Web-Crawler.git>
-* Change directory to the where the file "main.py" is saved
+* Run this Command: git clone </Users/lijicheng/Desktop/Street-Voice-Data-Analysis-Report>
+* Change directory to the where the file "StreetVoice_Web-Crawler.py" is saved
 * Install all the toolkits used in this project
-* Run this Command: python main.py
+* Run this Command: python StreetVoice_Web-Crawler.py
+* Run this Command: python StreetVoice_Data_Analysis.py
+
