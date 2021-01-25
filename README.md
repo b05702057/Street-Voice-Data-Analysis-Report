@@ -15,4 +15,4 @@ For example, analyze the correlation between the number of fans of an artist and
 
 ### Note
 The webpage of StreetVoice is constantly revised, and this may cause the web-crawler to break down.  
-If the situation happens, please notify me, and I will fix the problems as soon as possible.
+If the situation happens, please notify me. I will fix the problems as soon as possible.
